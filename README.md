@@ -4,4 +4,4 @@ We obtain NIST Human data on NA24385 (Ashkenazim Trio Son: HG002; data: 10K bps,
 
 
 
-contact: guofeieileen@163.com
+Contact: guofeieileen@163.com
